@@ -1,0 +1,28 @@
+name: JoeCool
+favicon: null
+layout_spectrum: 0.6694914039690048
+typography_spectrum: 0.5619365181773901
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4326853742823005
+  lightness: 0.4858398858923465
+  saturation: 0.872106428258121
+  rhythmicContrast: 0.03392447205260396
+purpose: []
